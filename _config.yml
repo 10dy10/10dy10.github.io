@@ -1,6 +1,6 @@
 # Site settings
-title: YAMT
-description: "Yet Another Minimal Theme"
+title: DAYOUNG
+description: "안녕하세요! 프론트엔드 개발자 김다영입니다 😁"
 url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
